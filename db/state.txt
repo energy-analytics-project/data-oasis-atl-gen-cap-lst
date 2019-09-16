@@ -1,0 +1,1 @@
+/mnt/PASSPORT/data/eap/energy-dashboard/data/data-oasis-atl-gen-cap-lst/sql/20190903_20190904_ATL_GEN_CAP_LST_N_20190905_08_30_45_v4.sql
