@@ -1,0 +1,2 @@
+data-oasis-atl-gen-cap-lst_00.db
+data-oasis-atl-gen-cap-lst_01.db
